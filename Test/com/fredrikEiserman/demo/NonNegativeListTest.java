@@ -1,6 +1,8 @@
 package com.fredrikEiserman.demo;
 
 
+import com.fredrikEiserman.demo.Puzzle4.NonNegativeList;
+
 import java.util.ArrayList;
 import java.util.List;
 
