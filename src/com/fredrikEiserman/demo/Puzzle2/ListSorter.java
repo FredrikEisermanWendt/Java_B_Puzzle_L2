@@ -1,4 +1,4 @@
-package com.fredrikEiserman.demo;
+package com.fredrikEiserman.demo.Puzzle2;
 
 import javax.print.attribute.IntegerSyntax;
 import java.util.ArrayList;

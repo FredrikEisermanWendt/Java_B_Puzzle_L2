@@ -1,5 +1,7 @@
 package com.fredrikEiserman.demo;
 
+import com.fredrikEiserman.demo.Puzzle2.ListSorter;
+
 class ListSorterTest {
 
     public static ListSorter ls = new ListSorter(10);

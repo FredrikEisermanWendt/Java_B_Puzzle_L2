@@ -1,5 +1,7 @@
 package com.fredrikEiserman.demo;
 
+import com.fredrikEiserman.demo.Puzzle1.ShoppingList;
+
 class ShoppingListTest {
 
     private static ShoppingList shList = new ShoppingList();

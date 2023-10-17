@@ -1,6 +1,8 @@
 package com.fredrikEiserman.demo;
 
 
+import com.fredrikEiserman.demo.Puzzle3.ListSwapping;
+
 class ListSwappingTest {
 
     private static ListSwapping ls = new ListSwapping();

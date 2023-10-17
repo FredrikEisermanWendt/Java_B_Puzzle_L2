@@ -1,4 +1,4 @@
-package com.fredrikEiserman.demo;
+package com.fredrikEiserman.demo.Puzzle1;
 
 import java.util.ArrayList;
 import java.util.List;

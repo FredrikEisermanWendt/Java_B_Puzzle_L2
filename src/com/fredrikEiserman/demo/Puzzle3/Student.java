@@ -1,4 +1,4 @@
-package com.fredrikEiserman.demo;
+package com.fredrikEiserman.demo.Puzzle3;
 
 public class Student {
 
