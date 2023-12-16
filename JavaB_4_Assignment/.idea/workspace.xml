@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7309bea-7c53-4a39-b5f8-355ea6e4d123" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Coding challenge/Coding challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coding challenge/src/CodeWars/BitCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coding challenge/src/CodeWars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coding challenge/src/CodeWars/TakeATenMinuteWalk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/Dice Game Java23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/Test/Test/DiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/Test/Test/PlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/Test/Test/RulesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/src/Rules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/src/com/Fredrik/DiceGame/CustomScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/src/com/Fredrik/DiceGame/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/src/com/Fredrik/DiceGame/GameControler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/src/com/Fredrik/DiceGame/GameStarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Game Java23/src/com/Fredrik/DiceGame/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FJavaA/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FJavaA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FJavaA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FJavaA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FJavaA/FJavaA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FJavaA/src/Lektion2/Ifsatser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FJavaA/src/com/fredrik/principles/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FJavaA/src/com/fredrik/principles/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java b Lektion 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java b Lektion 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java b Lektion 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java b Lektion 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java b Lektion 2/Java b Lektion 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java b Lektion 2/src/com/fredrik/demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaB/JavaB_Laboration/src/com/Fredrik/demo/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaB/JavaB_Laboration/src/com/Fredrik/demo/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaB/JavaB_Laboration/src/com/Fredrik/demo/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaB/JavaB_Laboration/src/com/Fredrik/demo/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaB/JavaB_Laboration/src/com/Fredrik/demo/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaB/JavaB_Laboration/src/com/Fredrik/demo/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_b_Training/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_b_Training/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_b_Training/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_b_Training/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_b_Training/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_b_Training/Java_b_Training.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_b_Training/src/com/fredrikEiserman/demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/Laktion_8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/Test/com/fredrik/test/DiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/Test/com/fredrik/test/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/src/com/fredrik/unitTest/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/src/com/fredrik/unitTest/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laktion_8/src/com/fredrik/unitTest/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion1/Lektion1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion1/src/com/FREDRIKEISERMANWENDT/demo/Uppgifter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion5/Lektion5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion5/src/com/Fredrik/L4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion5/src/com/Fredrik/L4/model/CustScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_2_Ovning/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_2_Ovning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_2_Ovning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_2_Ovning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_2_Ovning/Lektion_2_Ovning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_2_Ovning/src/com/Fredrik/demo/Övningar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_3_ovning/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_3_ovning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_3_ovning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_3_ovning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_3_ovning/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_3_ovning/Lektion_3_ovning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_3_ovning/src/com/Fredrik/övning3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_3_ovning/src/com/Fredrik/övning3/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6.2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6.2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6.2/Lektion_6.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6.2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6_Ovning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6_Ovning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6_Ovning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6_Ovning/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6_Ovning/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6_Ovning/Lektion_6_Ovning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6_Ovning/src/com/Fredrik/demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_6_Ovning/src/com/Fredrik/demo/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/Lektion_7_assignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/src/com/fredrik/demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/src/com/fredrik/demo/models/AAnimals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/src/com/fredrik/demo/models/Collie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/src/com/fredrik/demo/models/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/src/com/fredrik/demo/models/Ford.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/src/com/fredrik/demo/models/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lektion_7_assignment/src/com/fredrik/demo/models/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayAround/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayAround/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayAround/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayAround/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayAround/PlayAround.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayAround/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayAround/src/Myscan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/BigClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Blandat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2XGfrGMsp8LbEeMPDO4Lk3ptbZ9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eiser/Dev/Java23/JavaB_4_Assignment&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaB_4_Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7309bea-7c53-4a39-b5f8-355ea6e4d123" name="Changes" comment="" />
+      <created>1698260533303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698260533303</updated>
+    </task>
+    <servers />
+  </component>
+</project>
